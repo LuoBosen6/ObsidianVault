@@ -1,0 +1,12 @@
+{
+  "interfaceFontFamily": "HarmonyOS Sans SC",
+  "textFontFamily": "HarmonyOS Sans SC",
+  "monospaceFontFamily": "Comic Sans MS",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [],
+  "cssTheme": "Phycat",
+  "theme": "system",
+  "accentColor": "",
+  "nativeMenus": false
+}

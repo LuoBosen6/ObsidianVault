@@ -1,0 +1,16 @@
+{
+  "showLineNumber": false,
+  "attachmentFolderPath": ".//img",
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
