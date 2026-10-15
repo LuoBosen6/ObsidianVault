@@ -1,6 +1,5 @@
 {
   "phycat-layout@@layout-style": "layout-cards",
-  "phycat-colors@@dark-color-scheme": "theme-dark-vampire",
   "phycat-headings@@h2-style-select": "h2-style-twin",
   "phycat-headings@@h2-style-dark-select": "h2-style-dark-twin"
 }
