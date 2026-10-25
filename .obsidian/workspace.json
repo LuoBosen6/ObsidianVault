@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c013ac6b9818389e",
+        "id": "1da5dbd3f709c449",
         "type": "tabs",
         "children": [
           {
-            "id": "212ac35e4d8a0ae7",
+            "id": "b824d15ee3ec02b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/面向对象.md",
+                "file": "操作系统/第二章进程的描述与控制/进程的描述与控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面向对象"
+              "title": "进程的描述与控制"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.92858505249023
+    "width": 312.92858505249023,
+    "collapsed": true
   },
   "right": {
     "id": "522d4d35520f2a2f",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/面向对象.md",
+                "file": "操作系统/第二章进程的描述与控制/进程的描述与控制.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,7 +184,7 @@
       {
         "id": "0a9e1d8cd7ef1ef1",
         "type": "tabs",
-        "dimension": 30.666666666666664,
+        "dimension": 34.76190476190476,
         "children": [
           {
             "id": "8aca4a2e3432c592",
@@ -200,7 +201,7 @@
       {
         "id": "dd6fce97ba97ac49",
         "type": "tabs",
-        "dimension": 37.904761904761905,
+        "dimension": 33.80952380952381,
         "children": [
           {
             "id": "7640a346aecedb42",
@@ -216,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.78564453125
+    "width": 361.78564453125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +228,6 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "bases:新建数据库": false,
       "sidebar-highlights:Open highlights": false,
       "obsidian-importer:Open Importer": false,
@@ -234,15 +235,30 @@
       "math-convert:Open math-convert": false
     }
   },
-  "active": "212ac35e4d8a0ae7",
+  "active": "b824d15ee3ec02b4",
   "lastOpenFiles": [
-    "计算机网络/计算机网络.md",
+    "未命名.canvas",
+    "操作系统/第二章进程的描述与控制/进程的描述与控制.md",
+    "Java/面向对象三大特性.md",
+    "主存储器.md",
+    "操作系统/第三章处理机调度与死锁/处理机调度.md",
+    "操作系统/引论/操作系统.md",
+    "未命名",
+    "操作系统/第二章进程的描述与控制/img/进程的描述与控制-1792415502860.webp",
+    "操作系统/第二章进程的描述与控制/img/进程的描述与控制-1792415455704.webp",
+    "操作系统/第二章进程的描述与控制/img/进程的描述与控制-1792414667463.webp",
+    "操作系统/第二章进程的描述与控制/img",
+    "操作系统/第二章进程的描述与控制",
+    "操作系统/第三章处理机调度与死锁/img/处理机调度-1792412989807.webp",
+    "操作系统/第三章处理机调度与死锁/img",
     "复习毛概.md",
     "毛概新.md",
+    "毛泽东思想和中国特色社会主义理论体系概论.md.md",
     "速记.md",
     "习概.md",
-    "主存储器.md",
-    "操作系统/引论/操作系统.md",
+    "操作系统/第三章处理机调度与死锁",
+    "Java/面向对象.md",
+    "计算机网络/计算机网络.md",
     "操作系统/引论",
     "操作系统/引论/img/操作系统-1789971792812.webp",
     "img/操作系统-1789972656073.webp",
@@ -250,13 +266,9 @@
     "img/操作系统-1789972384222.webp",
     "img/操作系统-1789972337259.webp",
     "img/操作系统-1789971793962.webp",
-    "img/操作系统-1789971792812.webp",
     "img",
-    "计算机网络/img/计算机网络-1789644821545.webp",
     "计算机组成原理/计算机组成原理.md",
     "操作系统.md",
-    "计算机网络/img/计算机网络-1789449654017.webp",
-    "计算机网络/img/计算机网络-1789448900474.webp",
     "计算机网络/img",
     "计算机网络/老师教义",
     "计算机网络/老师教义/第一章 计算机网络概述/第一章 计算机网络概述.md",
@@ -268,20 +280,8 @@
     "计算机网络/老师教义/第二章 物理层/第二章 物理层.md",
     "计算机网络/第一章 计算机网络概述.md",
     "计算机网络/老师教义/第一章 计算机网络概述/图片和附件",
-    "计算机网络/老师教义/第一章 计算机网络概述",
-    "计算机网络/老师教义/第六章 应用层/图片和附件",
-    "计算机网络/老师教义/第六章 应用层",
-    "计算机网络/老师教义/第五章 传输层/图片和附件",
-    "计算机网络/老师教义/第五章 传输层",
     "汇编语言/汇编语言.md",
     "高数笔记考研版/数学基础知识.md",
-    "Java/面向对象三大特性.md",
-    "Java/面向对象.md",
-    "数据库/数据库.md",
-    "速记 1.md",
-    "离散数学/离散数学.md",
-    "TExt/测试.md",
-    "Templates/LaTeX用法.md",
-    "未命名.canvas"
+    "数据库/数据库.md"
   ]
 }
